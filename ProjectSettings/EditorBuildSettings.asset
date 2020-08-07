@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menus.unity
+    guid: 2db0065c0f6b48848bf1fea8b72ea66a
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ML Agents.unity
+    guid: 994545c45a587aa40bf8c3c063c7721a
+  - enabled: 1
+    path: Assets/Scenes/Learned Items.unity
+    guid: 233910495299a93459ca6f76007ebe02
+  - enabled: 1
+    path: Assets/Scenes/Link To Instructor Website.unity
+    guid: ab95048c9d3a28f4fa84304e016658d9
+  - enabled: 1
+    path: Assets/Scenes/Penguins.unity
+    guid: b84c4cb560fda0e479f0ee58ab101783
+  - enabled: 1
+    path: Assets/Hummingbird/Scenes/FlowerIsland.unity
+    guid: 5fe717cc93e514e41b661019459adcf8
+  - enabled: 1
+    path: Assets/Scenes/Computational Models.unity
+    guid: 8a53f866cc9b4cb4b98367937623ba45
+  - enabled: 1
+    path: Assets/Scenes/CM Palindrome.unity
+    guid: 00ba82d8d281ab847bba5bf17602a119
+  - enabled: 1
+    path: Assets/Scenes/CM Language Chosen.unity
+    guid: 5f453fa7c24cff44686e52b2c9935ad8
+  - enabled: 1
+    path: Assets/Scenes/PacmanPalindrome.unity
+    guid: bf18904bb5a97474a8c1a4b83ef2cdc7
+  - enabled: 1
+    path: Assets/Scenes/Match Par.unity
+    guid: a08da80fcf2b2d04ea3596ea305fc68b
+  - enabled: 1
+    path: Assets/Scenes/MP Language Chosen.unity
+    guid: 590daadfc22d5ef4785d798557b640bb
+  - enabled: 1
+    path: Assets/Matching Parenthesis/Matching Parenthesis World.unity
+    guid: c1b020773f8705842a097a574f31f526
+  m_configObjects: {}

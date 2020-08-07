@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Assignment5BSyedMuzafarAli(UltimateCummulativeAssignment)",
+"productVersion": "0.1",
+"dataUrl": "WebGL New.data.unityweb",
+"wasmCodeUrl": "WebGL New.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL New.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "WebGL New.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}

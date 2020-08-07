@@ -1,0 +1,57 @@
+sceneSetups:
+- path: Assets/Scenes/Menus.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/Main Menu.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Learned Items.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Link To Instructor Website.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/ML Agents.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Penguins.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Hummingbird/Scenes/FlowerIsland.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Computational Models.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/CM Palindrome.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/CM Language Chosen.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/PacmanPalindrome.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Match Par.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/MP Language Chosen.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Matching Parenthesis/Matching Parenthesis World.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
